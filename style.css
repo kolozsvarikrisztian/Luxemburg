@@ -1,0 +1,38 @@
+body{
+    background-color: #DCDCDC;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+h2{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+p{
+    text-align: justify;
+}
+
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#footerp{
+    text-align: center;
+}
